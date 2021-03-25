@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.form-control, .btn, .btn-primary {
+  border-radius: none;
+}
+.test {
+  border-radius: red;
+}
+
+
+.move-right {
+  /* border:1px solid red; */
+  padding: 0;
+}
